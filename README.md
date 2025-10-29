@@ -1,36 +1,65 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# FitBuddyAI: Your AI-Powered Fitness Companion 🏋️‍♀️
 
-## Getting Started
+<p align="center">
+  <img style="margin-right: 8px;" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript">
+  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&labelColor=white" alt="Next.js">
+  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Convex-purple?style=for-the-badge" alt="Convex">
+  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Vapi.ai-brightgreen?style=for-the-badge" alt="Vapi.ai">
+  <img style="margin-right: 8px;" src="https://img.shields.io/badge/Gemini-yellow?style=for-the-badge&logo=google-gemini" alt="Gemini">
+</p>
 
-First, run the development server:
+FitBuddyAI is an innovative project designed to revolutionize your fitness journey with the power of artificial intelligence. Leveraging cutting-edge technologies like Next.js, Convex, and Gemini, FitBuddyAI aims to provide personalized fitness plans, track your progress, and offer intelligent insights to help you achieve your health and wellness goals.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is currently under development and represents an exciting exploration of AI in the fitness domain. We welcome contributions and feedback as we build the ultimate AI-powered fitness companion!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Fitur Utama ✨
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+*   **Personalized Fitness Plans:** 📝 Receive customized workout routines tailored to your fitness level, goals, and preferences.
+*   **AI-Powered Insights:** 💡 Get intelligent feedback and suggestions based on your progress and data.
+*   **Progress Tracking:** 📊 Monitor your workouts, track your achievements, and visualize your fitness journey.
+*   **Seamless Integration:** 🔗 Enjoy a smooth and intuitive user experience built with Next.js.
+*   **AI-Driven Recommendations:** 🤖 Leverage AI to suggest optimal meal plans, workout routines, and recovery strategies.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack 🛠️
 
-## Learn More
+*   **Language:** TypeScript
+*   **Framework:** Next.js
+*   **Database:** Convex
+*   **AI:** Gemini (via Vapi.ai)
 
-To learn more about Next.js, take a look at the following resources:
+## Instalasi & Menjalankan 🚀
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1.  Clone repositori:
+    ```bash
+    git clone https://github.com/EevnxyEgo/FitBuddyAI
+    ```
+2.  Masuk ke direktori:
+    ```bash
+    cd FitBuddyAI
+    ```
+3.  Install dependensi:
+    ```bash
+    npm install
+    ```
+4.  Jalankan proyek:
+    ```bash
+    npm run dev
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Cara Berkontribusi 🤝
 
-## Deploy on Vercel
+We welcome contributions from the community! Here's how you can contribute:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1.  Fork the repository.
+2.  Create a new branch for your feature or bug fix: `git checkout -b feature/your-feature-name`
+3.  Commit your changes: `git commit -m "Add your descriptive commit message"`
+4.  Push to the branch: `git push origin feature/your-feature-name`
+5.  Create a pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Lisensi 📄
+
+Tidak ada lisensi yang ditentukan.
+
+
+---
+README.md ini dihasilkan secara otomatis oleh [README.MD Generator](https://github.com/emRival) — dibuat dengan ❤️ oleh [emRival](https://github.com/emRival)
